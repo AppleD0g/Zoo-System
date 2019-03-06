@@ -1,0 +1,13 @@
+1. Open MySQL Workbench
+2. Create Schema, call it 'zoo'
+3. Select 'zoo' schema (It will be written in bold on the left hand side)
+4. Open the SQL text file 'create tables' in the folder
+5. Run it by clicking on the first lightning button
+
+zoo schema should up and running with 2 tables : 'animal' and 'userlogin'
+
+
+
+the login username/password for the GUI LoginScreen is
+password: qwerty
+name: manager
